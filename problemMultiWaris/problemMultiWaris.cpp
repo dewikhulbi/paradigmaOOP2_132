@@ -32,4 +32,6 @@ public:
 	}
 };
 
-class budi:
+class budi : public pekerja, public pelajar {
+
+};
