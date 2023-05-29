@@ -22,4 +22,6 @@ public:
 	}
 };
 
-class pelajar : 
+class pelajar : public orang {
+
+};
